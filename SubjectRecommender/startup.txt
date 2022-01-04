@@ -1,0 +1,9 @@
+Start Up instructions
+1. wsl redis-server
+2. postgres -D /usr/local/var/postgres
+3. node node-server.js
+4. http://localhost:3000/
+
+When edited subjects:
+1. Start postgres
+2. node lib/importSubjects.js

@@ -1,0 +1,41 @@
+{
+  "name": "mosaic",
+  "subdomain": "mosaic",
+  "scripts": {
+    "start": "node-server.js"
+  },
+  "dependencies": {
+    "async": ">= 0.1.22",
+    "bluebird": "^3.7.2",
+    "csv": "0.3.x",
+    "csvjson": "^5.1.0",
+    "express": "3.x.x",
+    "jsonfile": "^6.1.0",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "raccoon": "0.2.5",
+    "redis": ">=0.8.x",
+    "sequelize": "^6.6.5",
+    "underscore": "1.x.x"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/guymorita/recommendationRaccoon/LICENSE"
+    }
+  ],
+  "keywords": [
+    "recommend",
+    "recommendation",
+    "recommendation engine",
+    "engine",
+    "collaborative",
+    "filtering",
+    "middleware",
+    "redis"
+  ]
+}

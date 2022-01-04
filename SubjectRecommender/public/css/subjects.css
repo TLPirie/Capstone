@@ -1,0 +1,48 @@
+.sprites { background-image: url(/img/faculties_small.png); background-color: transparent; background-repeat: no-repeat; }
+.businessstatistics { width: 128px; height: 128px; background-position: 0px 0px; }
+.marketingfoundations { width: 128px; height: 128px; background-position: 0px 0px; }
+.investmentanalysis { width: 128px; height: 128px; background-position: 0px 0px; }
+.managementskills { width: 128px; height: 128px; background-position: 0px 0px; }
+.economicsforbusiness { width: 128px; height: 128px; background-position: 0px 0px; }
+.programmingfundamentals { width: 128px; height: 128px; background-position: -128px 0px; }
+.softwaredevelopmentstudio { width: 128px; height: 128px; background-position: -128px 0px; }
+.networkfundamentals { width: 128px; height: 128px; background-position: -128px 0px; }
+.databasefundamentals { width: 128px; height: 128px; background-position: -128px 0px; }
+.communicationforitprofessionals { width: 128px; height: 128px; background-position: -128px 0px; }
+.healthcarecommunication { width: 128px; height: 128px; background-position: -256px 0px; }
+.fundamentalsofnursingpractice { width: 128px; height: 128px; background-position: -256px 0px; }
+.pharmacology { width: 128px; height: 128px; background-position: -256px 0px; }
+.fundamentalsofmentalhealth { width: 128px; height: 128px; background-position: -256px 0px; }
+.clinicalpractice { width: 128px; height: 128px; background-position: -256px 0px; }
+.introductiontobiomedicalengineering { width: 128px; height: 128px; background-position: -384px 0px; }
+.engineeringprojectmanagement { width: 128px; height: 128px; background-position: -384px 0px; }
+.engineeringmechanics { width: 128px; height: 128px; background-position: -384px 0px; }
+.surveying { width: 128px; height: 128px; background-position: -384px 0px; }
+.fundamentalsstudioa { width: 128px; height: 128px; background-position: -384px 0px; }
+.foundationsoflaw { width: 128px; height: 128px; background-position: -512px 0px; }
+.civilpractice { width: 128px; height: 128px; background-position: -512px 0px; }
+.corporatelaw { width: 128px; height: 128px; background-position: -512px 0px; }
+.criminology { width: 128px; height: 128px; background-position: -512px 0px; }
+.equityandtrusts { width: 128px; height: 128px; background-position: -512px 0px; }
+
+/*
+Control Students:
+Kelly- Law
+Anne- Health
+Tom- Business
+Alan- IT
+Jess- Engineering
+
+Mixes:
+Tora- IT/Engineering
+Felicia- Law/Business
+Luke- Engineering/Business
+*/
+
+/**************
+Business: 0px 0px
+IT: -128px 0px
+Health:-256px 0px
+Engineering: -384px 0px
+Law: -512px 0px
+*************/
